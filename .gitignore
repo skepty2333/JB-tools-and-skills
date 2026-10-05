@@ -1,0 +1,17 @@
+# 常规忽略
+__pycache__/
+*.pyc
+*.log
+Thumbs.db
+.DS_Store
+Temp/
+tmp/
+*.tmp
+
+# 二进制与安装包
+*.exe
+*.msi
+*.pkg
+
+# WebView 缓存
+EBWebView/
